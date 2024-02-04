@@ -24,7 +24,7 @@ Working FastAPI API with a User and Profile models and schemas.
 
 ### Profile
 - It has a name and a description
-- Belongs to a user
+- Belongs to a profile
 
 ## Requirements
 - Use English for all code, comments, commit messages, and documentation
